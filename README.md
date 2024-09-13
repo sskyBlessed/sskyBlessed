@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 </div>
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 I am a Python/Godot Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - :telescope: I’m working as a Freelancer and contributing to backend for building web applications.
 
@@ -23,7 +23,7 @@ I am a Python/Godot Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/sskyBlessed)
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
