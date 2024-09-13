@@ -38,13 +38,12 @@ I am a Python/Godot Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 </div>
 
 ### :fire: My Stats :
-<div allign="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sskyBlessed&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sskyBlessed&theme=radical&hide_border=true)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sskyBlessed&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 <!--
 **sskyBlessed/sskyBlessed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
